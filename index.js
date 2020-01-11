@@ -36,7 +36,9 @@ function total() {
 }
 
 function removeFromCart(item) {
-  cart
+  while(cart[i].itemName === item){
+    
+  }
 }
 
 function placeOrder(cardNumber) {
